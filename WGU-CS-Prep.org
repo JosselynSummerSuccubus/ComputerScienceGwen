@@ -1,0 +1,80 @@
+* WGU Computer Science Prep Checklist
+  This file is your personal roadmap to boost your CS knowledge before starting at Western Governor’s University.
+
+** 1. Math Foundations
+   - [ ] Review basic Algebra (equations, factoring, functions)
+   - [ ] Refresh on Geometry (shapes, theorems, and proofs)
+   - [ ] Brush up on Trigonometry (identities, unit circle, basic trig functions)
+   - [ ] Study Discrete Mathematics fundamentals:
+     - [ ] Propositional logic and proofs
+     - [ ] Sets, functions, and relations
+     - [ ] Basic combinatorics (permutations, combinations)
+     - [ ] Graph theory basics
+
+** 2. Programming Foundations
+   - [ ] Choose a primary language (e.g., Python, Java, or C++)
+   - [ ] Master essential syntax and data types
+   - [ ] Practice basic data structures:
+     - [ ] Arrays and Lists
+     - [ ] Stacks and Queues
+     - [ ] Linked Lists
+     - [ ] Trees (binary trees, BST)
+   - [ ] Learn recursion and iterative approaches
+   - [ ] Implement small projects or coding challenges (e.g., LeetCode, HackerRank)
+
+** 3. Algorithms
+   - [ ] Understand Big-O notation (time and space complexity)
+   - [ ] Study common algorithms:
+     - [ ] Sorting (Bubble, Insertion, Merge, Quick)
+     - [ ] Searching (Linear vs. Binary)
+     - [ ] Graph algorithms (BFS, DFS, shortest paths like Dijkstra)
+   - [ ] Implement these algorithms in your chosen language
+   - [ ] Practice optimization strategies
+
+** 4. Computer Architecture & OS Basics
+   - [ ] Basic hardware components (CPU, RAM, Motherboard, Storage)
+   - [ ] Binary representation, bits, and bytes
+   - [ ] Introduction to Assembly language (optional but helpful)
+   - [ ] Operating System fundamentals:
+     - [ ] Processes and threads
+     - [ ] Memory management
+     - [ ] File systems and I/O
+
+** 5. Networking & Security
+   - [ ] Understand the OSI model (Layers 1-7)
+   - [ ] Common network protocols (TCP, UDP, HTTP, DNS)
+   - [ ] Basic cryptography (hashing, symmetric vs. asymmetric encryption)
+   - [ ] Fundamentals of cybersecurity (common threats, security best practices)
+
+** 6. Databases
+   - [ ] Learn relational databases:
+     - [ ] SQL queries (SELECT, INSERT, UPDATE, DELETE)
+     - [ ] Database design (normalization, ER diagrams)
+   - [ ] Explore NoSQL concepts (document, key-value stores)
+   - [ ] Familiarize with indexing and query optimization
+
+** 7. Version Control
+   - [ ] Git basics (init, clone, commit, push, pull)
+   - [ ] Branching strategies (feature branches, merging vs. rebasing)
+   - [ ] Contribute to an open-source project or create a personal GitHub repo
+
+** 8. Study & Time Management Skills
+   - [ ] Create a weekly schedule for studies
+   - [ ] Use the Pomodoro Technique or similar for focused study blocks
+   - [ ] Keep a daily or weekly log of progress and reflections
+   - [ ] Celebrate small wins to stay motivated
+
+** 9. Recommended Resources
+   - [ ] Official WGU CS guidelines (check their website or orientation materials)
+   - [ ] Online platforms for extra practice:
+     - [ ] Coursera / edX for subject-based courses
+     - [ ] FreeCodeCamp, Khan Academy, and Codecademy for interactive learning
+     - [ ] Project Euler for math + programming challenges
+   - [ ] YouTube channels (e.g., CS Dojo, Crash Course Computer Science, The Coding Train)
+
+** 10. Personal Enrichment
+   - [ ] Read tech articles/blogs to stay updated with new trends
+   - [ ] Network with peers or local coding meetups
+   - [ ] Keep a hobby project on the side for fun
+   - [ ] Reflect on your learning progress and refine goals regularly
+
